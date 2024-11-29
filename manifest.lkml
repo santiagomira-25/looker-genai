@@ -17,6 +17,6 @@ application: looker-gen-ai {
 }
 
 constant: CONNECTION_NAME {
-  value: ""
+  value: "bq-connect"
   export: override_optional
 }
